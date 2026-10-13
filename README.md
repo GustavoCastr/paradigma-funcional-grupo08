@@ -7,7 +7,7 @@
 **Grupo 08**
 
 ## 👥 Integrantes (3 a 5 alunos)
-- Gustavo Oliveira Castro
+- Gustavo Oliveira Castro (34032797)
 - Kaio do Nascimento Mendes
 
 ## Definição do Tema
