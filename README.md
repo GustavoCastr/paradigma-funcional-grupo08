@@ -8,7 +8,7 @@
 
 ## 👥 Integrantes (3 a 5 alunos)
 - Gustavo Oliveira Castro (34032797)
-- Kaio do Nascimento Mendes
+- Kaio do Nascimento Mendes (33604410)
 
 ## Definição do Tema
 - **Paradigma:** Funcional
