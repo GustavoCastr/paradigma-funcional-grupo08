@@ -105,7 +105,7 @@ Em Haskell, o gerenciamento é feito por um *Garbage Collector* (GC) otimizado p
 
 ## Log de Uso de Inteligência Artificial (IA)
 *   **O que foi pedido à IA:** Foi feito um único comando inicial solicitando um algoritmo simples em Haskell que utilizasse uma pipeline de dados básica (map, filter, fold) para registrar notas de alunos.
-*   **Qual IA foi utilizada:** [Preencha com o nome e modelo da IA que utilizaram, ex: OpenAI ChatGPT 4o]
+*   **Qual IA foi utilizada:** [Copilot]
 *   **O que foi aproveitado:** A ferramenta forneceu apenas um esqueleto conceitual e didático da aplicação de funções de alta ordem (um filter por nota, um map aplicando bônus e um foldl somando valores de tuplas simples). A ideia de encadeamento serviu apenas como ponto de partida conceitual para a arquitetura do pipeline.
 *   **O que foi reescrito/entendido pelo grupo:** Toda a lógica real de negócio e complexidade do sistema foi projetada e implementada de forma autoral pelo grupo:
     - **Modelagem Corporativa de Dados:** Substituição de tuplas genéricas por Tipos de Dados Algébricos (ADT) estruturados via Record Syntax (`Aluno` e `ResultadoAluno`) para suportar a divisão acadêmica de avaliações (Nota A1 e Nota A2) e persistir o histórico de faltas.
